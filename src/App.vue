@@ -10,8 +10,8 @@
       <div class="col-md-4 sidebar pd-top-300">
         <div class="avatar">
           <img class="img-fluid" id="myAvatar" src="./assets/hungCV.png" width="35%" alt="Do Manh Hung" />
-          <h1 class="name">Do Manh Hung</h1>
-          <h4 class="job">04/03/1995</h4>
+          <h1 class="name">Phan Xuan Loc</h1>
+          <h4 class="job">13/06/1996</h4>
           <h4 class="job">Web Developer</h4>
         </div>
 
@@ -24,15 +24,11 @@
             <ul>
               <li class="flex">
                 <i class="fas fa-school circle circle--small circle--white"></i>
-                <div>Vietnam Trade Union University(Oct 2013 > 2015)</div><br>
-              </li>
-              <li class="flex">
-                <i class="fas fa-school circle circle--small circle--white"></i>
-                <div>University of Transport Technology(Oct 2015 > Now)</div><br>
+                <div>Hanoi University of Science and Technology(Oct 2014 > 2020)</div><br>
               </li>
               <li class="flex">
                 <i class="fas fa-graduation-cap circle circle--small circle--white"></i>
-                <div>Bachelor of information technology</div>
+                <div>Engineer of information technology</div>
               </li>
             </ul>
           </div>
@@ -55,11 +51,11 @@
               </li>
               <li class="flex">
                 <i class="fas fa-at circle circle--small circle--white"></i>
-                <div>domanhhung4395@gmail.com</div>
+                <div>phanxuanloc.bk@gmail.com</div>
               </li>
               <li class="flex">
                 <i class="fa fa-mobile circle circle--small circle--white"></i>
-                <span>(+84) 386 086 724</span>
+                <span>(+84) 389 046 791</span>
               </li>
             </ul>
           </div>
@@ -79,22 +75,20 @@
                   <span class="progress-bar"><span style="width:55%"></span></span>
                 </div>
               </li>
-
+              <li class="flex">
+                <i class="fab fa-python circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Python</span>
+                  <span class="progress-bar"><span style="width:40%"></span></span>
+                </div>
+              </li>
               <li class="flex">
                 <i class="fa fa-globe circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Web Development</span>
                   <span class="progress-bar"><span style="width:55%"></span></span>
                   <p >PHP Frameworks : Laravel</p>
-                  <p >Front-End: VueJS</p>
-                </div>
-              </li>
-              <li class="flex">
-                <i class="fa fa-mobile circle circle--small circle--white"></i>
-                <div class="flex--1">
-                  <span>App Development</span>
-                  <span class="progress-bar"><span style="width:45%"></span></span>
-                  <p >React Native</p>
+                  <p >JS Frameworkd: VueJS, ReactJS, Jquery</p>
                 </div>
               </li>
               <li class="flex">
@@ -146,14 +140,15 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>T3h Education</span></h3>
+                <span>Altplus Viet Nam</span></h3>
               <div class="module__meta">
-                  <span><i class="fa fa-building-o"></i>https://t3h.edu.vn</span>
-                  <span><i class="fa fa-calendar"></i>JUN 2018 > DEC 2018 </span>
+                  <span><i class="fa fa-building-o"></i>https://altplus.com.vn/</span>
+                  <span><i class="fa fa-calendar"></i>JAN 2019 > APR 2019 </span>
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
-                <li>• Developing website using PHP and MySQL</li>
+                <li>• Internship</li>
+                <li>• Research Laravel framework and make two websites</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
@@ -172,7 +167,7 @@
 
                 <li>• Frontend : Creating UI website (VueJS)</li>
                 <li>• Backend : Building Admin functions  <br>
-                                Building some user functions such as read mail, block user
+                                Building some user functions, company functions
                 </li>
                 
                 <li>• Website : <a href="https://afternext.work">https://afternext.work</a></li>
