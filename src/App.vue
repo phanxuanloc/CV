@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-md-4 sidebar pd-top-300">
         <div class="avatar">
-          <img class="img-fluid" id="myAvatar" src="./assets/hungCV.png" width="35%" alt="Do Manh Hung" />
+          <img class="img-fluid" id="myAvatar" src="./assets/avatar.png" width="35%" alt="Do Manh Hung" />
           <h1 class="name">Phan Xuan Loc</h1>
           <h4 class="job">13/06/1996</h4>
           <h4 class="job">Web Developer</h4>
@@ -47,7 +47,7 @@
               </li>
               <li class="flex">
                 <i class="fab fa-github circle circle--small circle--white"></i>
-                <div>https://github.com/hungswifty</div>
+                <div>https://github.com/phanxuanloc</div>
               </li>
               <li class="flex">
                 <i class="fas fa-at circle circle--small circle--white"></i>
@@ -71,8 +71,22 @@
               <li class="flex">
                 <i class="fab fa-html5 circle circle--small circle--white"></i>
                 <div class="flex--1">
-                  <span>HTML / CSS / JS</span>
+                  <span>HTML & JCSS</span>
                   <span class="progress-bar"><span style="width:55%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-js-square circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Javascript</span>
+                  <span class="progress-bar"><span style="width:55%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-php circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>PHP</span>
+                  <span class="progress-bar"><span style="width:65%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -83,20 +97,87 @@
                 </div>
               </li>
               <li class="flex">
-                <i class="fa fa-globe circle circle--small circle--white"></i>
+                <i class="fab fa-bootstrap circle circle--small circle--white"></i>
                 <div class="flex--1">
-                  <span>Web Development</span>
+                  <span>Bootstrap</span>
+                  <span class="progress-bar"><span style="width:45%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-vuejs circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>VueJS</span>
                   <span class="progress-bar"><span style="width:55%"></span></span>
-                  <p >PHP Frameworks : Laravel</p>
-                  <p >JS Frameworkd: VueJS, ReactJS, Jquery</p>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-react circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>ReactJS</span>
+                  <span class="progress-bar"><span style="width:45%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-js circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Jquery</span>
+                  <span class="progress-bar"><span style="width:45%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-docker circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Docker</span>
+                  <span class="progress-bar"><span style="width:45%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-laravel circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Laravel</span>
+                  <span class="progress-bar"><span style="width:55%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-spider circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Crawler</span>
+                  <span class="progress-bar"><span style="width:30%"></span></span>
                 </div>
               </li>
               <li class="flex">
                 <i class="fas fa-database circle circle--small circle--white"></i>
                 <div class="flex--1">
-                  <span>Database</span>
+                  <span>MySQL</span>
                   <span class="progress-bar"><span style="width:50%"></span></span>
-                  <p>MySQL</p>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-brain circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Keras</span>
+                  <span class="progress-bar"><span style="width:30%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fas fa-brain circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Tensorflow</span>
+                  <span class="progress-bar"><span style="width:30%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-gitlab circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Git</span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
+                </div>
+              </li>
+              <li class="flex">
+                <i class="fab fa-ubuntu circle circle--small circle--white"></i>
+                <div class="flex--1">
+                  <span>Ubuntu</span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
                 </div>
               </li>
             </ul>
@@ -142,13 +223,16 @@
                 <i class="fa fa-globe circle circle--medium"></i>
                 <span>Altplus Viet Nam</span></h3>
               <div class="module__meta">
-                  <span><i class="fa fa-building-o"></i>https://altplus.com.vn/</span>
-                  <span><i class="fa fa-calendar"></i>JAN 2019 > APR 2019 </span>
+                <span><i class="fas fa-user-md"></i>Internship</span>
+              </div>
+              <div class="module__meta">
+                <span><i class="fa fa-globe"></i>https://altplus.com.vn/</span>
+                <span><i class="fa fa-calendar"></i>JAN 2019 > APR 2019 </span>
               </div>
               <div class="module__content">
                 <ul class="title title-margin">
-                <li>• Internship</li>
-                <li>• Research Laravel framework and make two websites</li>
+                <li>● Research Laravel framework</li>
+                <li>● Create two basic websites</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
@@ -157,20 +241,40 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Connectiv VN</span></h3>
+                <span>Connectiv Viet Nam</span></h3>
               <div class="module__meta">
-                  <span><i class="fa fa-building-o"></i>https://connectiv.jp/connectiv-vietnam/</span>
-                  <span><i class="fa fa-calendar"></i>1 APR 2019 - Current </span>
+                <span><i class="fas fa-user-md"></i>Web Developer</span>
+              </div>
+              <div class="module__meta">
+                <span><i class="fa fa-globe"></i>https://connectiv.jp/connectiv-vietnam/</span>
+                <span><i class="fa fa-calendar"></i>APR 2019 - Current </span>
               </div>
               <div class="module__content">
+                <h4>
+                  <span>
+                    <i class="fas fa-star circle circle--small"></i>
+                    Freak Project
+                  </span>
+                </h4>
                 <ul class="title title-margin">
-
-                <li>• Frontend : Creating UI website (VueJS)</li>
-                <li>• Backend : Building Admin functions  <br>
-                                Building some user functions, company functions
-                </li>
-                
-                <li>• Website : <a href="https://afternext.work">https://afternext.work</a></li>
+                  <li>● Frontend : Creating UI website (VueJS)</li>
+                  <li>● Backend : Building Admin functions and some company function such as preview, send mail, apply,... (Laravel)
+                  </li>
+                  <li>● Website : <a href="https://afternext.work">https://afternext.work</a></li>
+                </ul>
+              </div>
+              <div class="module__content">
+                <h4>
+                  <span>
+                    <i class="fas fa-star circle circle--small"></i>
+                    Base Project
+                  </span>
+                </h4>
+                <ul class="title title-margin">
+                  <li>● Frontend : Creating UI website (ReactJS)</li>
+                  <li>● Backend : Building some base functions, api and unittest (Laravel)
+                  </li>
+                  <li>● Website : Private</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
@@ -187,15 +291,16 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fa fa-globe circle circle--medium"></i>
-                <span>Website</span></h3>
+                <span>Website</span>
+              </h3>
               <div class="module__content">
                 <ul>
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
-                    <div>Website</div>
+                    <div>Website Job using VueJS & Laravel </div>
 
                   </li>
-                  <li class="flex">• https://afternext.work/</li>
+                  <li class="flex">● https://afternext.work/</li>
 
                 </ul>
 
@@ -219,6 +324,53 @@
             </div><!-- End .module #4 -->
           </div>
           <!-- End .section #1 -->
+        <div class="section" style="margin-left:0;">
+          <h2 class="section__title">
+            <i class="fa fa-briefcase circle circle--large"></i>
+            <span class="font-weight-bold">Graduation Thesis</span>
+          </h2>
+          <div class="section__content">
+            <div class="module">
+              <h3 class="module__title">
+                <i class="fas fa-clipboard circle circle--medium"></i>
+                <span>Description</span>
+              </h3>
+              <div class="module__content">
+                <ul class="title title-margin">
+                  <li>● Crawl data from website websites</li>
+                  <li>● Create web interface that displays weather data</li>
+                  <li>● Automatically perdict the weather using keras, tensorflow</li>
+                </ul>
+              </div>
+            </div><!-- End .module #4 -->
+          </div><!-- End .section__content -->
+          <div class="section__content">
+            <div class="module">
+              <h3 class="module__title">
+                <i class="fas fa-microchip circle circle--medium"></i>
+                <span>Technology</span>
+              </h3>
+              <div class="module__content">
+                <ul class="title title-margin">
+                  <li>● VueJS, Laravel, Docker, Keras, Tensorflow, Crawler</li>
+                </ul>
+              </div>
+            </div><!-- End .module #4 -->
+          </div><!-- End .section__content -->
+          <div class="section__content">
+            <div class="module">
+              <h3 class="module__title">
+                <i class="fas fa-clipboard circle circle--medium"></i>
+                <span>Technology</span>
+              </h3>
+              <div class="module__content">
+                <ul class="title title-margin">
+                  <li>● VueJS, Laravel, Docker, Keras, Tensorflow, Crawler</li>
+                </ul>
+              </div>
+            </div><!-- End .module #4 -->
+          </div><!-- End .section__content -->
+        </div><!-- End .section #1 -->
         <div class="section" style="margin-left:0;">
           <h2 class="section__title">
             <i class="fa fa-briefcase circle circle--large"></i>
@@ -312,7 +464,7 @@ export default {
           if($(this).scrollTop() > 130){
             $('.sidebar').css("background-image", "linear-gradient(120deg, #43c6ac, #191654)");
           } else {
-            $('.sidebar').css("background-image", "linear-gradient(120deg, #3d80bb, #9377aa, #d387a0)");
+            $('.sidebar').css("background-image", "linear-gradient(120deg, #000046, #1cb5e0)");
           }
 
           $(".module").each(function() {

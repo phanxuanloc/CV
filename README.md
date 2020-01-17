@@ -1,4 +1,4 @@
-# HungCV
+# LocCV
 
 ## Project setup
 ```
