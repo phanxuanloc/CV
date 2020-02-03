@@ -146,13 +146,6 @@
                 </div>
               </li>
               <li class="flex">
-                <i class="fas fa-database circle circle--small circle--white"></i>
-                <div class="flex--1">
-                  <span>MySQL</span>
-                  <span class="progress-bar"><span style="width:50%"></span></span>
-                </div>
-              </li>
-              <li class="flex">
                 <i class="fas fa-brain circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Keras</span>
@@ -164,20 +157,6 @@
                 <div class="flex--1">
                   <span>Tensorflow</span>
                   <span class="progress-bar"><span style="width:30%"></span></span>
-                </div>
-              </li>
-              <li class="flex">
-                <i class="fab fa-gitlab circle circle--small circle--white"></i>
-                <div class="flex--1">
-                  <span>Git</span>
-                  <span class="progress-bar"><span style="width:50%"></span></span>
-                </div>
-              </li>
-              <li class="flex">
-                <i class="fab fa-ubuntu circle circle--small circle--white"></i>
-                <div class="flex--1">
-                  <span>Ubuntu</span>
-                  <span class="progress-bar"><span style="width:50%"></span></span>
                 </div>
               </li>
             </ul>
@@ -380,13 +359,13 @@
             <div class="module">
               <div class="module__content">
                 <ul class="title">
-
-                <li>• Teamwork or independent skills.</li>
-                <li>• Read the document and follow the request.­</li>
-                <li>• High sense of responsibility at work.</li>
-                <li>• Ability to withstand work pressure</li>
-                <li>• Solidarity, honesty.</li>
-                <li>• Ability to manage work effectively and clearly.</li>
+                  <li>● Teamwork or independent skills.</li>
+                  <li>● Read the document and follow the request.­</li>
+                  <li>● High sense of responsibility at work.</li>
+                  <li>● Ability to withstand work pressure</li>
+                  <li>● Solidarity, honesty.</li>
+                  <li>● Ability to manage work effectively and clearly.</li>
+                  <li>● Using MySQL, Git, Ubuntu proficiently.</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
