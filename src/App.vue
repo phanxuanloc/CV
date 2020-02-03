@@ -24,7 +24,7 @@
             <ul>
               <li class="flex">
                 <i class="fas fa-school circle circle--small circle--white"></i>
-                <div>Hanoi University of Science and Technology(Oct 2014 > 2020)</div><br>
+                <div>Hanoi University of Science and Technology(Oct 2014 > Feb 2020)</div><br>
               </li>
               <li class="flex">
                 <i class="fas fa-graduation-cap circle circle--small circle--white"></i>
@@ -79,14 +79,14 @@
                 <i class="fab fa-js-square circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Javascript</span>
-                  <span class="progress-bar"><span style="width:55%"></span></span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
                 </div>
               </li>
               <li class="flex">
                 <i class="fab fa-php circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>PHP</span>
-                  <span class="progress-bar"><span style="width:65%"></span></span>
+                  <span class="progress-bar"><span style="width:60%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -100,7 +100,7 @@
                 <i class="fab fa-bootstrap circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Bootstrap</span>
-                  <span class="progress-bar"><span style="width:45%"></span></span>
+                  <span class="progress-bar"><span style="width:35%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -121,7 +121,7 @@
                 <i class="fab fa-js circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Jquery</span>
-                  <span class="progress-bar"><span style="width:45%"></span></span>
+                  <span class="progress-bar"><span style="width:35%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -135,7 +135,7 @@
                 <i class="fab fa-laravel circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Laravel</span>
-                  <span class="progress-bar"><span style="width:55%"></span></span>
+                  <span class="progress-bar"><span style="width:60%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -232,28 +232,29 @@
                 <h4>
                   <span>
                     <i class="fas fa-star circle circle--small"></i>
-                    Freak Project
+                    Freak Project (Apr 2019 -  Oct 2019)
                   </span>
                 </h4>
                 <ul class="title title-margin">
-                  <li>● Frontend : Creating UI website (VueJS)</li>
-                  <li>● Backend : Building Admin functions and some company function such as preview, send mail, apply,... (Laravel)
+                  <li>● Description: Recruitment website</li>
+                  <li>● Frontend: Creating admin interface and edit interface as required (VueJS)</li>
+                  <li>● Backend: Building Admin functions and some company function such as preview, send mail, apply,... (Laravel)
                   </li>
-                  <li>● Website : <a href="https://afternext.work">https://afternext.work</a></li>
+                  <li>● Website: <a href="https://afternext.work">https://afternext.work</a></li>
                 </ul>
               </div>
               <div class="module__content">
                 <h4>
                   <span>
                     <i class="fas fa-star circle circle--small"></i>
-                    Base Project
+                    Base Project (Oct 2019 - Jan 2020)
                   </span>
                 </h4>
                 <ul class="title title-margin">
-                  <li>● Frontend : Creating UI website (ReactJS)</li>
-                  <li>● Backend : Building some base functions, api and unittest (Laravel)
+                  <li>● Frontend: Creating UI website (ReactJS)</li>
+                  <li>● Backend: Building some base functions, api and unittest (Laravel)
                   </li>
-                  <li>● Website : Private</li>
+                  <li>● Website: Private</li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
@@ -277,10 +278,8 @@
                   <li class="flex">
                     <i class="fa fa-globe circle circle--small circle--white"></i>
                     <div>Website Job using VueJS & Laravel </div>
-
                   </li>
-                  <li class="flex">● https://afternext.work/</li>
-
+                  <li class="flex block">● <a href="https://afternext.work">https://afternext.work</a></li>
                 </ul>
 
               </div>
@@ -316,8 +315,8 @@
               </h3>
               <div class="module__content">
                 <ul class="title title-margin">
-                  <li>● Crawl data from website websites</li>
-                  <li>● Create web interface that displays weather data</li>
+                  <li>● Crawl data from weather websites</li>
+                  <li>● Create web interface</li>
                   <li>● Automatically perdict the weather using keras, tensorflow</li>
                 </ul>
               </div>
@@ -340,11 +339,11 @@
             <div class="module">
               <h3 class="module__title">
                 <i class="fas fa-clipboard circle circle--medium"></i>
-                <span>Technology</span>
+                <span>GITLAB</span>
               </h3>
               <div class="module__content">
                 <ul class="title title-margin">
-                  <li>● VueJS, Laravel, Docker, Keras, Tensorflow, Crawler</li>
+                  <li class="block">● <a href="https://gitlab.com/loc.phan.connectiv/weather-pxl">https://gitlab.com/loc.phan.connectiv/weather-pxl</a></li>
                 </ul>
               </div>
             </div><!-- End .module #4 -->
@@ -712,6 +711,9 @@ export default {
   .lang__content h4 {
     text-transform: uppercase;
     margin-top: 15px;
+  }
+  .block {
+    display: block;
   }
   a{
     color: #00428a!important;
