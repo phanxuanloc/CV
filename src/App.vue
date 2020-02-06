@@ -107,7 +107,7 @@
                 <i class="fab fa-vuejs circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>VueJS</span>
-                  <span class="progress-bar"><span style="width:55%"></span></span>
+                  <span class="progress-bar"><span style="width:45%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -381,10 +381,8 @@
               <div class="module">
                 <div class="module__content">
                   <ul  class="title">
-                    <!-- <li>• Technical skills:  Software Development Life Cycles, Distributed programming, Serviced oriented programming</li>  
-                    <li>• Soft skills: foreign language, presentation skills, teamwork skills</li>
-                    <li>• Become Technical Leader or Project Manager with high performance and professional style.</li> -->
-                    
+                    <li>● I am looking forward to working in an active and challenging evironment in order to improve my skills.</li>
+                    <li>● Become Technical Leader or Project Manager with high performance and professional style.</li> 
                   </ul>
                 </div>
               </div><!-- End .module #7 -->
