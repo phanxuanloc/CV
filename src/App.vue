@@ -406,10 +406,10 @@ export default {
   components: {
 
   },
-  // mounted: function() {
-  //   this.myMove();
-  //   this.fadeInText();
-  // },
+  mounted: function() {
+    this.myMove();
+    this.fadeInText();
+  },
   methods: {
     myMove() {
       var element = document.getElementById("myAvatar");
