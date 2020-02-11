@@ -405,8 +405,8 @@ export default {
 
   },
   mounted: function() {
-    this.myMove();
-    this.fadeInText();
+    // this.myMove();
+    // this.fadeInText();
   },
   methods: {
     myMove() {
@@ -577,6 +577,7 @@ export default {
 
   .sidebar {
     background-color: linear-gradient(120deg, #3d80bb, #9377aa, #d387a0);
+    background-image: linear-gradient(120deg, #43c6ac, #191654);
     color: #fff;
     padding-right: 0px!important; 
   }
