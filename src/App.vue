@@ -405,7 +405,7 @@ export default {
 
   },
   mounted: function() {
-    // this.myMove();
+    this.myMove();
     // this.fadeInText();
   },
   methods: {
