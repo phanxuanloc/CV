@@ -71,8 +71,8 @@
               <li class="flex">
                 <i class="fab fa-html5 circle circle--small circle--white"></i>
                 <div class="flex--1">
-                  <span>HTML & JCSS</span>
-                  <span class="progress-bar"><span style="width:55%"></span></span>
+                  <span>HTML & CSS</span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -107,7 +107,7 @@
                 <i class="fab fa-vuejs circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>VueJS</span>
-                  <span class="progress-bar"><span style="width:45%"></span></span>
+                  <span class="progress-bar"><span style="width:55%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -121,7 +121,7 @@
                 <i class="fab fa-js circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Jquery</span>
-                  <span class="progress-bar"><span style="width:35%"></span></span>
+                  <span class="progress-bar"><span style="width:40%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -135,7 +135,7 @@
                 <i class="fab fa-laravel circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Laravel</span>
-                  <span class="progress-bar"><span style="width:60%"></span></span>
+                  <span class="progress-bar"><span style="width:65%"></span></span>
                 </div>
               </li>
               <li class="flex">
