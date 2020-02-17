@@ -72,7 +72,7 @@
                 <i class="fab fa-html5 circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>HTML & CSS</span>
-                  <span class="progress-bar"><span style="width:50%"></span></span>
+                  <span class="progress-bar"><span style="width:55%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -100,7 +100,7 @@
                 <i class="fab fa-bootstrap circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Bootstrap</span>
-                  <span class="progress-bar"><span style="width:35%"></span></span>
+                  <span class="progress-bar"><span style="width:50%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -128,7 +128,7 @@
                 <i class="fab fa-docker circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Docker</span>
-                  <span class="progress-bar"><span style="width:45%"></span></span>
+                  <span class="progress-bar"><span style="width:55%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -142,7 +142,7 @@
                 <i class="fas fa-spider circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Crawler</span>
-                  <span class="progress-bar"><span style="width:30%"></span></span>
+                  <span class="progress-bar"><span style="width:35%"></span></span>
                 </div>
               </li>
               <li class="flex">
