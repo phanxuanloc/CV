@@ -79,7 +79,7 @@
                 <i class="fab fa-js-square circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>Javascript</span>
-                  <span class="progress-bar"><span style="width:50%"></span></span>
+                  <span class="progress-bar"><span style="width:55%"></span></span>
                 </div>
               </li>
               <li class="flex">
@@ -107,14 +107,14 @@
                 <i class="fab fa-vuejs circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>VueJS</span>
-                  <span class="progress-bar"><span style="width:55%"></span></span>
+                  <span class="progress-bar"><span style="width:60%"></span></span>
                 </div>
               </li>
               <li class="flex">
                 <i class="fab fa-react circle circle--small circle--white"></i>
                 <div class="flex--1">
                   <span>ReactJS</span>
-                  <span class="progress-bar"><span style="width:50%"></span></span>
+                  <span class="progress-bar"><span style="width:60%"></span></span>
                 </div>
               </li>
               <li class="flex">
